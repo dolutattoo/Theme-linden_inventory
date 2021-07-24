@@ -15,5 +15,5 @@
   https://streamable.com/gj3pbv
 
  ## Credits
-  - @TheLindat for this great inventory system
-  - @DoluTattoo for this theme
+  - @thelindat for this great inventory system
+  - @dolutattoo for this theme
