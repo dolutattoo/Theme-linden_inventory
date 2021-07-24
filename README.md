@@ -8,6 +8,9 @@
   - ItemBox is brighter when you hover it
   - When you hover the amount section, you can scroll by 10 unit by hodling `Control` key
 
+ ## How to install 
+  drag & drop the html folder into linden_inventory resource (do not replace, you'll get missing files)
+
  ## Preview
   https://streamable.com/gj3pbv
 
