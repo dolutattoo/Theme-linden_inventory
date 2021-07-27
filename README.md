@@ -5,8 +5,9 @@
   - <a href='https://github.com/thelindat/linden_inventory'>linden_inventory</a>
 
  ## Features
-  - ItemBox is brighter when you hover it
-  - When you hover the amount section, you can scroll by 10 unit by hodling `Control` key
+  - Edited various element style,
+  - added bright effect when you hover an item,
+  - When you hover the amount section, you can scroll by 10 unit by holding `Control` key.
 
  ## How to install 
   Drag & drop the html folder into linden_inventory resource (do not replace, you'll get missing files)
