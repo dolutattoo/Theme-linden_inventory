@@ -6,7 +6,7 @@
 
  ## Features
   - Edited various element style,
-  - added bright effect when you hover an item,
+  - Added bright effect when you hover an item,
   - When you hover the amount section, you can scroll by 10 unit by holding `Control` key.
 
  ## How to install 
